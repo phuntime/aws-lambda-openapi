@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: AWS Lambda API
   description: All API endpoints exposed by AWS Lambda, combined together for implementing custom runtimes faster
-  version: 1.0.0
+  version: 1.1.0
 tags:
   - name: runtime
     description: AWS Lambda Runtime API
