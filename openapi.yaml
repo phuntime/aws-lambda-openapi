@@ -2,7 +2,13 @@ openapi: 3.0.0
 info:
   title: AWS Lambda API
   description: All API endpoints exposed by AWS Lambda, combined together for implementing custom runtimes faster
-  version: 1.1.0
+  version: 1.1.1
+  license:
+    name: CC BY-SA 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+externalDocs:
+    description: Check out on GitHub!
+    url: https://github.com/phuntime/aws-lambda-openapi
 tags:
   - name: runtime
     description: AWS Lambda Runtime API
